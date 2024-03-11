@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Matheus",
+    "profession": "Programmer",
+    "email": "kastorcode@gmail.com",
+    "phone": "+000000000000",
+    "website": "https://github.com/kastorcode",
+    "location": "Goiânia, GO"
+  },
+  {
+    "name": "Naruto",
+    "profession": "Shinobi",
+    "email": "naruto@konoha.com",
+    "phone": "+111111111111",
+    "website": "https://konoha.com/naruto",
+    "location": "Konohagakure, LF"
+  },
+  {
+    "name": "Hinata",
+    "profession": "Shinobi",
+    "email": "hinata@konoha.com",
+    "phone": "+222222222222",
+    "website": "https://konoha.com/hinata",
+    "location": "Konohagakure, LF"
+  },
+  {
+    "name": "Goku",
+    "profession": "Warrior",
+    "email": "goku@dragonball.com",
+    "phone": "+333333333333",
+    "website": "https://dragonball.com/goku",
+    "location": "Monte Paozu, MP"
+  },
+  {
+    "name": "Zidane",
+    "profession": "Football Player",
+    "email": "zidane@fifa.com",
+    "phone": "+444444444444",
+    "website": "https://fifa.com/zidane",
+    "location": "La Castellane, MA"
+  }
+]
